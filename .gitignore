@@ -1,6 +1,12 @@
-.DS_Store
-._*
-Thumbs.db
-*.sublime-project
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
 *.sublime-workspace
-.idea
+*.sublime-project
+
